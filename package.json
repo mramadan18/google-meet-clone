@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "firebase": "^10.11.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
     "react-scripts": "5.0.1",
+    "react-tooltip": "^4.2.21",
+    "redux": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
